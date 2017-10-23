@@ -1,0 +1,1 @@
+# barcodescanner-sdk-cordova
